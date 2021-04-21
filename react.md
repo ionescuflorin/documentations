@@ -138,7 +138,7 @@
 > **Redux Saga**
 
 #### **TIPS**
-> Store shop data in an object, not in an array - better performance
+
 
 #### **TOOLS**
 > **redux-presist** -> for local storage
@@ -249,6 +249,8 @@ handleClick = () => {
 
 ## <a id="link7"></a> 8.REACT PERFORMANCE
 [back to top](#top)
+
+> Store shop data in an object, not in an array - better performance
 
 #### Resources:
 - Andrei: https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15381662#questions
